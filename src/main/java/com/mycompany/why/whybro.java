@@ -9,5 +9,6 @@ package com.mycompany.why;
  * @author alumnog
  */
 public class whybro {
+    Amogus;
     
 }
